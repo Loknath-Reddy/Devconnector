@@ -1,0 +1,28 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "developers can connect with this web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loknath-Reddy/Devconnector.git"
+  },
+  "keywords": [
+    "devconnector",
+    "react",
+    "javascript",
+    "css",
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Loknath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loknath-Reddy/Devconnector/issues"
+  },
+  "homepage": "https://github.com/Loknath-Reddy/Devconnector#readme"
+}
